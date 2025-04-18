@@ -1,0 +1,6 @@
+Lập trình ra giao diện mà người dùng cuối có thể sử dụng được
+Nhập R, F, M => sử dụng tập luật để biết người đó thuộc nhóm nào
+Trong RFM hiện tại đang có những nhóm , mỗi nhóm bao nhiêu khách hàng
+Hình ảnh liên quan
+Đặc điểm của 4 nhóm
+Nếu upload file lên, file có R,F,M thì chia thành những nhóm nào
